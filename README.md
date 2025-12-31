@@ -1,4 +1,4 @@
-🤖 Hi, I'm Tarun Dande!
+🤖 **Hi, I'm Tarun Dande!** \n
 MSc in AI & Machine Learning | University of Limerick 🇮🇪
 
 I’m a specialized AI Developer who transitioned from "making models" to "building agents that do the work for me." I combine my academic rigor from UL with a hands-on obsession for autonomous systems.
